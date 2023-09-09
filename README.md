@@ -1,5 +1,5 @@
 # multiversity
-Multiversity is an online community where prospective students can find universities that meet their criteria. [Visit Multiversity](https://www.multiversity.wiki) to try it out!
+Multiversity is an online website where prospective students can find universities that meet their criteria. [Visit Multiversity](https://www.multiversity.wiki) to try it out!
 
 ## About
 
