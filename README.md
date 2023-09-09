@@ -1,5 +1,5 @@
 # multiversity
-Multiversity is an online community where prospective students can find universities that meet their criteria. Visit [Multiversity](https://www.multiversity.wiki) to try it out!
+Multiversity is an online community where prospective students can find universities that meet their criteria. [Visit Multiversity](https://www.multiversity.wiki) to try it out!
 
 ## About
 
@@ -9,7 +9,7 @@ Multiversity is a social platform that takes a different approach to university 
 
 Using Multiversity is simple:
 
-1. Visit [Multiversity](https://www.multiversity.wiki) in your web browser.
+1. [Visit Multiversity](https://www.multiversity.wiki) in your web browser.
 2. Click on the search bar in the middle of the screen.
 3. Specify your constraints (i.e. what course you want to study or what scholarship percentage you prefer).
 4. Press "Search!" (it will always be at the bottom of the screen).
