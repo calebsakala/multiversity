@@ -22,7 +22,7 @@ Please note that Multiversity is not an official or all-authoritative source of 
 Multiversity is built using the following technologies:
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js, GraphQL, MySQL, AWS (does AWS belong in the 'backend' category?)
+- Backend: Node.js, Express.js, GraphQL, MySQL, Jest, AWS (does AWS belong in the 'backend' category?)
 - OpenAI GPT-3.5-turbo API
 
 Happy university-finding!
