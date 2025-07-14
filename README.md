@@ -1,4 +1,4 @@
-# multiversity
+# multiversity (now discontinued)
 Multiversity is an online website where prospective students can find universities that meet their criteria. [Visit Multiversity](https://www.multiversity.wiki) to try it out!
 
 ## About
